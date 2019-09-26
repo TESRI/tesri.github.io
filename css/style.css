@@ -3,6 +3,12 @@
  * To find the original style.css that ships with Airspace, read airspace.css
  *
  */
+.mylogo{
+ position: absolute;
+ width: 40%;
+ right: 90px;
+}
+
 .mymargin {
  margin-left: -83px;
 }
